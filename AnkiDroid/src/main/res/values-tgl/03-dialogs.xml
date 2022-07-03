@@ -47,7 +47,7 @@
     <string name="check_db_title">Suriin ang database?</string>
     <string name="check_db_warning">Maaaring tumagal ito ng mahabang panahon</string>
     <string name="check_db_acknowledge">Sinuri ang database</string>
-    <string name="check_db_acknowledge_shrunk">Database checked and optimized.\nShrunk by %d MB.</string>
+    <string name="check_db_acknowledge_shrunk">everyone</string>
     <string name="contextmenu_deckpicker_delete_deck">Tanggalin ang palapag</string>
     <string name="delete_deck_default_deck">Ang default na palapag ay hindi matatanggal</string>
     <string name="delete_deck_title">Tanggalin ang palapag?</string>
